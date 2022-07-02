@@ -7,3 +7,4 @@ set(CMAKE_CXX_STANDARD 17)
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
 
 project(BLE-Temprature-Sensor)
+ 

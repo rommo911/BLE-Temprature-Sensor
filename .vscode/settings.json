@@ -73,5 +73,6 @@
         "streambuf": "cpp",
         "thread": "cpp",
         "typeinfo": "cpp"
-    }
+    },
+    "idf.portWin": "COM5"
 }
